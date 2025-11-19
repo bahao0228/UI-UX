@@ -128,8 +128,13 @@ Dự án được triển khai theo **Design Thinking**:
 - Hùng  
 - Hoài  
 - QHoa
+
+## 📑 Bản quyền & Sử dụng
+Tài liệu và sản phẩm trong dự án này thuộc quyền sở hữu của **Nhóm 2 – BA27, Trường Đại học Thương mại**.  
+Chỉ được sử dụng cho mục đích **học tập, nghiên cứu và tham khảo**.  
   
 # 📩 Liên hệ
 **Phạm Huy Hảo – Business Analyst**  
-📧 phamhuyhao20040605@gmail.com  
-📍 Hà Nội, Việt Nam
+📧 Email: **phamhuyhao20040605@gmail.com**  
+📞 Điện thoại: **0326 040 228**  
+📍 Địa chỉ: **Hà Nội, Việt Nam**
