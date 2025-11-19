@@ -14,12 +14,12 @@ Dự án được thực hiện bởi **Nhóm 2 – BA27 TMU**, với vai trò c
 
 # 2. Mục tiêu & Giá trị mang lại
 
-### 🎯 **Mục tiêu**
+### **Mục tiêu**
 - Hiểu sâu nhu cầu của người dùng: Sales/CSKH/Leader  
 - Xây dựng dashboard trực quan, dễ dùng, dễ thao tác  
 - Tối ưu hiệu quả quản lý lead và quy trình bán hàng  
 
-### 💎 **Giá trị**
+### **Giá trị**
 - Tập trung vào insight người dùng qua Empathy Map và Personas  
 - Tăng hiệu suất theo dõi khách hàng tiềm năng  
 - Giảm thao tác thủ công cho Sales  
@@ -70,28 +70,28 @@ Dự án được triển khai theo **Design Thinking**:
 > 📂 Tất cả tài liệu được lưu trong thư mục: **/documents**
 # 5. Phân công công việc
 
-| Công việc | Số lượng | PIC | Deadline | Sản phẩm | Trạng thái |
-|----------|----------|-----|----------|----------|------------|
-| Outline & Word | 1 | Hồng | 06/09 | Outline dự án | ✔ Done |
-| Canva | 1 | QHoa | - | Thiết kế Canva | ⏳ Pending |
-| Trực quan hóa nghiên cứu (Figma) | 8 | All | - | Research board | ⏳ Pending |
-| Bối cảnh dự án | 1 | Hảo | 02/09 | Bối cảnh dự án | ✔ Done |
-| Giới thiệu DN & Mục tiêu | 1 | Hồng | 02/09 | Overview | ✔ Done |
-| Phân tích đối thủ | 1 | Hiếu | 02/09 | Benchmarking | ✔ Done |
-| Personas & Empathy Map | 2 | Hoài, Hùng | 09/09 | Personas | ✔ Done |
-| User Journey Map | 3 | Hương, Giang, QHoa | 11/09 | UJM | ✔ Done |
-| Concept Statement | 1 | Hồng | 27/09 | Concept | ✔ Done |
-| Sitemap | - | All | 15/09 | IA | ✔ Done |
-| User-flow | 2 | Giang, Hương | 18/09 | Flow | ✏ Editing |
-| Wireframe | 2 | Hùng, Hiếu | 27/09 | Wireframe | ✏ Editing |
-| Task screens | 1 | Hảo | - | Task UI | Pending |
-| Report & Add lead screens | 1 | Giang | - | UI | Pending |
-| Setting screen | 1 | QHoa | - | UI | Pending |
-| 360° Customer Profile | 2 | Hương, Hoài | - | UI | Pending |
-| Style Guide | 1 | Hồng | 27/09 | Style | Pending |
-| Component | - | - | - | Component Kit | Pending |
-| Testing (UAT) | 2 | Hiếu, Hùng | - | Test report | Pending |
-| Re-prototype | - | - | - | Mid-fi → UI | Pending |
+| Công việc | Số lượng | PIC | Sản phẩm |
+|----------|----------|-----|----------|
+| Outline & Word | 1 | Hồng | Outline dự án |
+| Canva | 1 | QHoa | Thiết kế Canva |
+| Trực quan hóa nghiên cứu (Figma) | 8 | All | Research board |
+| Bối cảnh dự án | 1 | Hảo | Bối cảnh dự án |
+| Giới thiệu DN & Mục tiêu | 1 | Hồng | Overview |
+| Phân tích đối thủ | 1 | Hiếu | Benchmarking |
+| Personas & Empathy Map | 2 | Hoài, Hùng | Personas |
+| User Journey Map | 3 | Hương, Giang, QHoa | UJM |
+| Concept Statement | 1 | Hồng | Concept |
+| Sitemap | - | All | IA |
+| User-flow | 2 | Giang, Hương | Flow |
+| Wireframe | 2 | Hùng, Hiếu | Wireframe |
+| Task screens | 1 | Hảo | Task UI |
+| Report & Add lead screens | 1 | Giang | UI |
+| Setting screen | 1 | QHoa | UI |
+| 360° Customer Profile | 2 | Hương, Hoài | UI |
+| Style Guide | 1 | Hồng | Style |
+| Component | - | - | Component Kit |
+| Testing (UAT) | 2 | Hiếu, Hùng | Test report |
+| Re-prototype | - | - | Mid-fi → UI |
 
 # 6. Tiến độ dự án
 - Tuần 1 → Nghiên cứu & Tổng quan  
@@ -100,14 +100,14 @@ Dự án được triển khai theo **Design Thinking**:
 - Tuần 4 → Testing & Re-prototype  
 
 # 7. Công cụ & Phương pháp
-### 🛠 **Công cụ**
+### **Công cụ**
 - Figma  
 - Canva  
 - Google Sheets  
 - Miro  
 - Jira (cho quản lý task)
 
-### 📐 **Kỹ thuật / Methods**
+### **Kỹ thuật / Methods**
 - Design Thinking  
 - UX Research  
 - Benchmarking Analysis  
